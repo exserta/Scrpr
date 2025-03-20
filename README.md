@@ -10,7 +10,7 @@ I have created it for my personal use within a closed environment, and I do not 
 1. Install [***Node.js***](https://nodejs.org/en)
 2. Install required dependencies: <br>
    ```
-   npm install discord.js-selfbot-v13 fs path axios readline-sync gradient-string uui
+   npm install discord.js-selfbot-v13 fs path axios readline-sync gradient-string uuid
 3. Set up ***Config.json***
 4. Run the script and follow menu instructions
    ```
